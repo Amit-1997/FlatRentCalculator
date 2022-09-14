@@ -9,6 +9,8 @@
 <nav class="navbar navbar-light" style="background-color: #F0F8FF;">
   <div class="container-fluid">
     <a class="navbar-brand"> <h3 >Rent Calculator</h3> Home is where love is !!</a>
+
+    <button class="btn"><i class="fa fa-home"></i> <a href="/home" >Home </a></button>
     </div>
 
   </div>

@@ -9,6 +9,8 @@
 <nav class="navbar navbar-light" style="background-color: #F0F8FF;">
   <div class="container-fluid">
     <a class="navbar-brand"> <h3 >Rent Calculator</h3> Home is where love is !!</a>
+
+    <button class="btn"><i class="fa fa-home"></i> <a href="/home" >Home </a></button>
     </div>
 
   </div>
@@ -35,14 +37,16 @@
                   <input type="number"
                    class="form-control"
                     id="totalBillRoom1"
-                    name="totalBillRoom1">
+                    name="totalBillRoom1"
+                    required >
                 </div>
                  <div class="col-md-3">
                    <label for="totalBillRoom2" class="form-label">Total Bill Room2</label>
                    <input type="number"
                    class="form-control"
                    id="totalBillRoom2"
-                   name="totalBillRoom2">
+                   name="totalBillRoom2"
+                   required >
                   </div>
                    <div class="col-md-5">
 
@@ -55,14 +59,16 @@
          <input type="number"
          class="form-control"
          id="noOfPersonRoom1"
-         name="noOfPersonRoom1">
+         name="noOfPersonRoom1"
+         required>
          </div>
          <div class="col-md-3">
          <label for="noOfPersonRoom2" class="form-label">Number of person Room2</label>
          <input type="number"
          class="form-control"
          id="noOfPersonRoom2"
-         name="noOfPersonRoom2">
+         name="noOfPersonRoom2"
+         required>
          </div>
           <div class="col-md-5">
 
@@ -75,14 +81,16 @@
          <input type="number"
          class="form-control"
          id="penalityRoom1"
-         name="penalityRoom1">
+         name="penalityRoom1"
+         required>
          </div>
          <div class="col-md-3">
          <label for="penalityRoom2" class="form-label">Penality Room2</label>
          <input type="number"
          class="form-control"
          id="penalityRoom2"
-         name="penalityRoom2">
+         name="penalityRoom2"
+         required>
          </div>
           <div class="col-md-5">
 
