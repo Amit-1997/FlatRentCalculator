@@ -78,7 +78,7 @@
          name="penalityRoom1">
          </div>
          <div class="col-md-3">
-         <label for="penalityRoom2" class="form-label">Penality Room1</label>
+         <label for="penalityRoom2" class="form-label">Penality Room2</label>
          <input type="number"
          class="form-control"
          id="penalityRoom2"
@@ -90,11 +90,13 @@
 
 
 
+
+
+
 <div class="col-md-6" style=" margin-top: 100px;text-align:center;">
 <button type="submit" class="btn btn-primary btn-lg">Calculate</button>
 </div>
       </form>
-
 
 
 
