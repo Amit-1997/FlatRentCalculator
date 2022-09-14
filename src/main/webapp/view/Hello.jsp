@@ -33,7 +33,7 @@
  <!-- taking inputs of total bill -->
 
          <div class="col-md-3">
-                  <label for="totalBillRoom1" class="form-label">Total Bill Room1</label>
+                  <label for="totalBillRoom1" class="form-label">Total Bill Room1(Shivam and Surya)</label>
                   <input type="number"
                    class="form-control"
                     id="totalBillRoom1"
@@ -41,7 +41,7 @@
                     required >
                 </div>
                  <div class="col-md-3">
-                   <label for="totalBillRoom2" class="form-label">Total Bill Room2</label>
+                   <label for="totalBillRoom2" class="form-label">Total Bill Room2(Amit and Devansh)</label>
                    <input type="number"
                    class="form-control"
                    id="totalBillRoom2"
